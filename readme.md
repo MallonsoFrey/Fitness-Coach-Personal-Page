@@ -3,6 +3,7 @@ ___
 
 ## Описание / Description
 Это проект личной страницы фитнес-тренера. Он создан для представления услуг тренера и предоставления информации о здоровье и фитнесе. В проекте использованы JavaScript для интерактивных элементов и SCSS для стилизации. <br> 
+<br>
 This is a personal trainer's webpage project. It is designed to showcase the trainer's services and provide information about health and fitness. The project uses JavaScript for interactive elements and SCSS for styling.
 
 ## Технологии / Technologies
